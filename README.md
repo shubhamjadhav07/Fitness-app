@@ -1,3 +1,6 @@
+Developed a Fitness Exercise Web Application designed to recommend and display exercises for specific muscle groups. The application was built using Reactjs, CSS, HTML, and JavaScript, leveraging the RapidAPI platform to fetch exercise data. This project showcases my ability to integrate multiple web technologies to create a user-friendly and interactive fitness tool.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
